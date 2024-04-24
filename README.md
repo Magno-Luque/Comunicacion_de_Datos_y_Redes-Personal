@@ -1,1 +1,1 @@
-# Personal-Data_Communication_And_Networks
+# Repositorio personal del curso Comunicación de Datos y Redes
