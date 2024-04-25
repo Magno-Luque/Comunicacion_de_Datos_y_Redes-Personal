@@ -17,6 +17,8 @@ kdkjflajfks: command not found
 ```
 ##### Notamos que dicho texto no es reconocido. 
 
+---
+
 Conociendo los primeros comandos ***pwd***, ***cd*** y ***ls***.
 
 + Para conocer nuestro directorio actual usamos ***pwd***:
