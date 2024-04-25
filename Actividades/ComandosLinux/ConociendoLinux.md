@@ -20,9 +20,14 @@ kdkjflajfks: command not found
 
 ---
 
-Conociendo los primeros comandos ***pwd***, ***cd*** y ***ls***.
+Conociendo los primeros comandos ***pwd***, ***cd*** y ***ls***. 
 
-+ Para conocer nuestro directorio actual usamos ***pwd***:
+Los nombres de ruta se pueden especificar de dos maneras; nombres de ruta absolutos o nombres de ruta relativos.
+
+### Nombres de ruta absolutas 
+Comienza con el directorio raíz y sigue el árbol rama por rama.
+
++ Para conocer nuestro directorio actual, usamos el comando ***pwd***:
 ```bash
 richard@ml:~$ pwd
 /home/richard
@@ -30,4 +35,41 @@ richard@ml:~$ pwd
 
 ---
 
++ Para enumerar los archivos en el directorio de trabajo, usamos el comando ***ls***:
+```bash
+richard@ml:~$ ls
+Descarga    Escritorio   Música      Público    Videos
+Documentos  Imágenes     Plantillas  snap
+```
 
+---
+
++ Para acceder a cualquier ruta de acceso y visualizar el contenido que tiene, usamo el comando ***cd*** especificando a doonde deseamos enrutarnos:
+```bash
+richard@ml:~$ cd /snap
+richard@ml:/snap$ ls
+bare   firefox   snap-store    bin    core22
+```
+
+---
+
+### Nombres de ruta relativos
+El "." es una forma alternativa para cambiar o referirse al directorio actual de trabajo y la notación ".." se refiere al directorio antecesor del directorio actual.
+
++ Si deseamos acceder a algún directorio agregando ".", escribimos ***cd ./snap*** en la línea de comando:
+```bash
+richard@ml:~$ cd ./snap
+richard@ml:~/snap$ pwd
+home/ricalobos/snap
+```
+
+---
+
++ Si deseamos retornar al directorio anterior al del actual agregando "..", escribimos ***cd ..*** en la línea de comando:
+```bash
+richard@ml:~/snap$ cd ..
+richard@ml:~$ pwd
+home/ricalobos
+```
+
+---
