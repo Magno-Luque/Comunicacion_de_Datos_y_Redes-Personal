@@ -44,7 +44,7 @@ Documentos  Imágenes     Plantillas  snap
 
 ---
 
-+ Para acceder a cualquier ruta de acceso y visualizar el contenido que tiene, usamo el comando ***cd*** especificando a doonde deseamos enrutarnos:
++ Para acceder a cualquier ruta de acceso y visualizar el contenido que tiene, usamo el comando ***cd*** especificando a donde deseamos enrutarnos:
 ```bash
 richard@ml:~$ cd /snap
 richard@ml:/snap$ ls
@@ -73,3 +73,49 @@ home/ricalobos
 ```
 
 ---
+
+Ahora vamos a hacer un recorrido por nuestro sistema Linux usando algunos comandos:
+
+* ***ls*** (lista de archivos y directorios)
+* ***less*** (ver archivos de texto)
+* ***file*** (clasificar el contenido de un archivo)
+
+--- 
+
+A continuación, se puede visualizar que el comando ***ls*** se puede usar de distinta manera: 
+
+![alt text](image.png)
+
+La mayoría de los comandos funcionan así: 
+```bash
+command -options arguments
+```
+
+---
+
+Tenemos al comando ***less*** es un programa que nos permite visualizar archivos de texto.
+
+Lo podemos llamar escribiendo:
+```bash
+less text_file
+```
+
+Podemos usar los siguientes comandos para así movernos por el archivo:
+
+![alt text](image-1.png)
+
+---
+
+El comando ***file*** nos permite mostrar los tipos de datos que contiene un archivo y lo podemos hacer de la siguiente manera en línea de comando:
+
+```bash
+file name_of_file
+```
+
+Seguidamente nos mostrata los siguientes detalles:
+
+![alt text](image-2.png)
+
+---
+
+
