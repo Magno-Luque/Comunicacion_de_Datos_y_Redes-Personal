@@ -6,4 +6,4 @@ Contenido:
 
    1.2. Módulo 4
 
-+ Semestre 2
+2. Semestre 2
