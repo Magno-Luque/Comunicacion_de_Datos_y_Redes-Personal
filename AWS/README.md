@@ -1,4 +1,4 @@
-# En esta directorio se registra la realización del curso de AWS Academy Introduction to Cloud
+# En este directorio se registra la realización del curso de AWS Academy Introduction to Cloud
 
 Contenido:
 
