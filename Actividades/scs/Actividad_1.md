@@ -1,3 +1,0 @@
-## P
-
-![Error](image.png)
