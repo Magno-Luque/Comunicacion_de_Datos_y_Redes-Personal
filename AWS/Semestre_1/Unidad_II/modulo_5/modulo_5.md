@@ -10,7 +10,7 @@ Importancia de las ubicaciones de borde y el almacenamiento en caché para una C
 
 **Teminología tecnológica:**
 
-**- Amazon CloudFront:** Es un servicio de red de entrega de contenido (CDN) rápida que entrega datos, videos, aplicaciones e interfaces de programación de aplicaciones(API) de forma segura, con baja latencia (tiempo que tarda un paquete de datos viajar desde su origen hasta su destino)y altas velocidades de transferencia (cantidad de datos), todo ello dentro de un entorno favorable para los desarrolladores. 
+**- Amazon CloudFront:** Es un servicio de red de entrega de contenido (CDN) rápida que entrega datos, videos, aplicaciones e interfaces de programación de aplicaciones(API) de forma segura, con baja latencia (tiempo que tarda un paquete de datos viajar desde su origen hacia su destino) y altas velocidades de transferencia (cantidad de datos), todo ello dentro de un entorno favorable para los desarrolladores. 
 
 **- AWS Direct Content:** Permite establecer una conectividad privada entre AWS y su centro de datos, oficina o entorno de coubicación, lo que en muchos casos puede reducir los costos de red, aumenta el rendimiento del ancho de banda (capacidad máxima teórica de una conexión de red) y ofrecer una experiencia de red más uniforme.
 
