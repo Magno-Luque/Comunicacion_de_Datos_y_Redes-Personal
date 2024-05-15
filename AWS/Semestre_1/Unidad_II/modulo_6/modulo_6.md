@@ -16,6 +16,6 @@ Examinar las ventajas y características de Amazon EBS. Creación de los volúme
 
 **- Unidad de disco duro (HDD: Hard Disk Drive):** Almacenamiento más lento que utiliza un disco giratorio para almacenar datos.
 
-**- Operaciones de entrada y salida por segundo (IOPS):** Medida de rendimiento frecuente que se utiliza para comparar dispositivos de almacenamiento informático como HDD y SDD. 
+**- Operaciones de entrada y salida por segundo (IOPS):** Medida de rendimiento frecuente que se utiliza para comparar dispositivos de almacenamiento informático como HDD y SSD. 
 
-**- Unidad de estado sólido (SDD: Solid State Drive):** Almacenamiento muy rápido que utiliza memoria flash en lugar de un disco giratorio. 
+**- Unidad de estado sólido (SSD: Solid State Drive):** Almacenamiento muy rápido que utiliza memoria flash en lugar de un disco giratorio. 
