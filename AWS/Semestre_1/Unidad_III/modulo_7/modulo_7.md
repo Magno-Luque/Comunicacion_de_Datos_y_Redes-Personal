@@ -2,7 +2,7 @@
 
 **Finalidad del módulo:** 
 
-Se obtendrá información general sobre la seguridad en la nube en relación con *AWS Indentity and Access Management* (IAM). A esto se incluye información sobre las prácticas recomendadas, los roles, los usuarios, las políticas y los grupos de seguridad.
+Se obtendrá información general sobre la seguridad en la nube en relación con *AWS Identity and Access Management* (IAM). A esto se incluye información sobre las prácticas recomendadas, los roles, los usuarios, las políticas y los grupos de seguridad.
 
 **Teminología tecnológica:**
 
@@ -29,3 +29,4 @@ Se obtendrá información general sobre la seguridad en la nube en relación con
 **- Notación de objetos JavaScript (JSON):** Es la sintaxis para almacenar e intercambiar datos.
 
 **- Multi-Factor Authentication (MFA):** Es un sistema de seguridad que requiere más de un método de autenticación de categorías independientes de credenciales para verificar la identidad del usuario para un inicio de sesión u otra transacción. 
+
