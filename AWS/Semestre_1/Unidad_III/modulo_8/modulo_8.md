@@ -2,7 +2,7 @@
 
 **Finalidad del módulo:** 
 
-En este módulo se cubre las diferencias entre AWS Shield y AWS WAF.Aprender qué es un ataque de denegación de servicio distribuido (DDoS). Asimismo obtener información sobre Amazon Inspector y AWS Artifact.
+En este módulo se cubre las diferencias entre AWS Shield y AWS WAF. Aprender qué es un ataque de denegación de servicio distribuido (DDoS). Asimismo obtener información sobre Amazon Inspector y AWS Artifact.
 
 **Teminología tecnológica:**
 
