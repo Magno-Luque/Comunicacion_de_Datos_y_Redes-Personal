@@ -65,7 +65,7 @@ El manipular información confidencial como registros bancarios y médicos en la
 
 **15. Eliminar credenciales innecesarias.** 
 
-**16. Utilizar las condiciones de la política para obtener mayor seguridad:** Las condiciones de IAM permiten el acceso a un recurso. Por ejemplo, escribir condiciones para especificar el rango de direcciones IP- También se puede especificar que una solicitud solo se permita dentro de un intervalo de fechas o de horas. También condiciones que requieran el uso de SSL o MFT. 
+**16. Utilizar las condiciones de la política para obtener mayor seguridad:** Las condiciones de IAM permiten el acceso a un recurso. Por ejemplo, escribir condiciones para especificar el rango de direcciones IP. También se puede especificar que una solicitud solo se permita dentro de un intervalo de fechas o de horas. También condiciones que requieran el uso de SSL o MFT. 
 
 **17. Supervisar la actividad de su cuenta de AWS:** Se puede usar funciones de registro de AWS. Los archivos de registro muestran la hora y la fecha de las acciones, la IP de origen de una acción y más.
 
