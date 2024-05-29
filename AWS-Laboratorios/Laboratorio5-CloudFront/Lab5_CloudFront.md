@@ -1,6 +1,6 @@
 # Evidencias del desarrollo del presente laboratorio:
 
-En este laboratorio se usará Amazon CloudFront como red de entrega de contenido (CDN) para un sitio web almacenado en Amazon S3.
+En este laboratorio, se usará Amazon CloudFront como red de entrega de contenido (CDN) para un sitio web almacenado en Amazon S3.
 
 ### **Palabras clave:**
 **- AWS CLI:** Es una interfaz de línea de comandos que permite interactuar con los servicios de AWS.

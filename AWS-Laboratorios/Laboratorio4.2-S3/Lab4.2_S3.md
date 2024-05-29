@@ -1,6 +1,6 @@
 # Evidencias del desarrollo del presente laboratorio:
 
-En este laboratorio se creará un bucket de Amazon Simple Storage Simple (Amazon S3) que alojará un sitio web estático.
+En este laboratorio, se creará un bucket de Amazon Simple Storage Simple (Amazon S3) que alojará un sitio web estático.
 
 ### **Palabras clave:**
 **- Access Control List (ACL):** Define qué cuentas de AWS o grupos cuentan con acceso y el tipo de acceso que tienen.

@@ -39,7 +39,7 @@ El manipular información confidencial como registros bancarios y médicos en la
 
 **2. Cree usuarios individuales de IAM:** No utilizar las credenciales de usuario raiz de su cuenta de AWS para acceder a AWS.
 
-**3. Utilice grupos de usuarios para asignar permisos a los usuarios de la IAM:** En lugar de definir permisos para usuarios individuales de IAM, los más conveniente es crear grupos que se relacionen con la función de su trabajo (administradores, desarrolladores, contadores, etc.). Seguidamente de definir los permisos. 
+**3. Utilice grupos de usuarios para asignar permisos a los usuarios de la IAM:** En lugar de definir permisos para usuarios individuales de IAM, los más conveniente es crear grupos que se relacionen con la función de su trabajo (administradores, desarrolladores, contadores, etc.). Seguidamente definir los permisos. 
 
 **4. Conceda menos privilegio:** Conceder solo permisos necesarios para realizar alguna tarea. Determinar los roles de los usuarios y, a continuación, crear políticas que permitan realizar solo esas tareas.
 

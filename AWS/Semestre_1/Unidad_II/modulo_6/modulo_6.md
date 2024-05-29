@@ -38,4 +38,4 @@ A continuación, se presenta algunas diferencias entre el almacenamiento de dato
 
 + Amazon S3 presenta más demoras que Amazon EBS a la hora de escribir datos. 
 
-+ Amazon EBS incluye tres tipos de volúmenes, mientras que Amazon incluye más tipos.
++ Amazon EBS incluye tres tipos de volúmenes (volúmenes en estado sólido (SSD), volúmenes de unidades de estadi sólido (HDD), volúmenes de generaciones anteriores), mientras que Amazon incluye más tipos.
