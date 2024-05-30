@@ -18,3 +18,4 @@ Al operar en la nube, es importante llevar un seguimiento de las actividades, po
 
 **- Amazon Simple Notification Services (Amazon SNS):** Permite enviar textos, correos electrónicos y mensajes a otros servicios en la nube y enviar notificaciones al cliente de varias formas desde la nube.
 
+**- Senderos (trail):**  Capturan un registro de las actividades de AWS, entregan y almacenan estos eventos en un depósito de Amazon S3.
