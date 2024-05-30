@@ -2,7 +2,7 @@
 
 **Contenido:**
 
-1. [SEMESTRE 1](Semestre_1/SEMESTRE.md)
+1. SEMESTRE 1
 
    [UNIDAD I](Semestre_1/Unidad_I/UNIDAD_I.md): ESTRUCTURA Y CARACTERÍSTICSA EN LA NUBE
 
