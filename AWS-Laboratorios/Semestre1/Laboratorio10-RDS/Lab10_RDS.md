@@ -36,3 +36,43 @@ En este laboratorio, se creará una instancia de base de datos (DB) de Amazon Re
 
 ![alt text](image-6.png)
 
++ Podemos visualizar las credenciales de la instancia de base de datos en ver detalles de credenciales y se deberá tomar nota de esta.
+
++ Observamos que ya se completó la creación de nuestra instancia:
+
+![alt text](image-7.png)
+![alt text](image-8.png)
+
++ Ahora bien, se deberá instalar SQL Server Management Studio para conectarnos a la instancia de base de datos de RDS.
+
+![alt text](image-9.png)
+
++ Haremos que la base de datos que acabamos de crear sea de acceso público:
+
+![alt text](image-10.png)
+
++ En programación de modificaciones seleccionamos en aplicar inmediatamente:
+
+![alt text](image-11.png)
+![alt text](image-12.png)
+
++ Esperamos hasta que el estado cambie a disponible:
+
+![alt text](image-13.png)
+
++ Activaremos las conexiones entrantes de SQL Server desde conexiones externas.
+
+
+
++ Copiamos en un editor de texto el punto de enlace:
+
+
+
++ 
+
+
+
++ Ahora damos click en conectar y esperamos a que :
+
+
+
