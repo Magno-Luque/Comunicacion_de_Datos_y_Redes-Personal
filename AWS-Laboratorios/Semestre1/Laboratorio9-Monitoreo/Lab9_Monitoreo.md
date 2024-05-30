@@ -40,7 +40,7 @@ En este laboratorio, se creará una alarma de Amazon CloudWatch que notifica cua
 
 ![alt text](image-6.png)
 
-+ Elegiremos el tipo de putno de enlace como correo electrónico:
++ Elegiremos el tipo de punto de enlace como correo electrónico:
 
 ![alt text](image-7.png)
 
