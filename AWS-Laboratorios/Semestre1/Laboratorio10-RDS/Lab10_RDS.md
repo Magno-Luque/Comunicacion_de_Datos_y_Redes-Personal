@@ -62,17 +62,29 @@ En este laboratorio, se creará una instancia de base de datos (DB) de Amazon Re
 
 + Activaremos las conexiones entrantes de SQL Server desde conexiones externas.
 
++ Nos dirigimos a grupos de seguridad de la VPC:
+
+![alt text](image-14.png)
+
++ Ahora nos dirigimos a Reglas de entrada y en editar reglas de entrada:
+
+![alt text](image-15.png)
+
++ Añadimos una nueva regla de entrada del tipo MSSQL, fuente personalizada introduciendo nuestra dirección IP/32:
+
+![alt text](image-16.png)
+
++ Copiamos en un editor de texto el punto de enlace y el puerto predeterminado para SQL Server:
+
+![alt text](image-17.png)
+
++ Ahora abrimos la aplicación Microsoft SQL Server Management Studio y completamos las credenciales:
+
+![alt text](image-18.png)
+
++ Ahora damos click en conectar y esperamos a que se complete la conexión:
 
 
-+ Copiamos en un editor de texto el punto de enlace:
-
-
-
-+ 
-
-
-
-+ Ahora damos click en conectar y esperamos a que :
 
 
 
