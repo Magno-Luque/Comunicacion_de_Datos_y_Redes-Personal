@@ -4,3 +4,4 @@
 + [Laboratorio 6 - EBS](Laboratorio6-EBS/Lab6_EBS.md)
 + [Laboratorio 7 - IAM](Laboratorio7-IAM/Lab7_IAM.md)
 + [Laboratorio 9 - Monitoreo](Laboratorio9-Monitoreo/Lab9_Monitoreo.md)
++ [Laboratorio 10 - RDS](Laboratorio10-RDS/Lab10_RDS.md)

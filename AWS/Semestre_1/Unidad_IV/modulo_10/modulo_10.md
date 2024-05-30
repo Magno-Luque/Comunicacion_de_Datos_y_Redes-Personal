@@ -2,11 +2,16 @@
 
 **Finalidad del módulo:** 
 
-En este módulo se obtendrá información sobre Amazon Relational Database Service (Amazon RDS), Amazon DynamoDB y el almacén de datos con Amazon Redshift. Asímismo, comparar las bases de datos relacionales y no relacionales y el procesamiento de transacciones en línea (OLTP) y el procesamiento analítico en línea (OLAP).
+En este módulo se obtendrá información sobre Amazon Relational Database Service (Amazon RDS), Amazon DynamoDB y el almacén de datos con Amazon Redshift. Asímismo, comparar las bases de datos relacionales y no relacionales y el procesamiento de transacciones en línea (OLTP: On-Line Transaction Processing) y el procesamiento analítico en línea (OLAP: On-Line Analytical Processing).
+
+"El OLTP y el OLAP son dos tipos de sistemas de procesamiento de datos."
+
+- OLTP: Típicos en donde se requiere la velocidad y eficiencia en la gestión de transacciones (operaciones diarias). Manejan grandes  volúmenes de transacciones.
+- OLAP: Diseñados para consultas complejas y análisis de grandes volúmenes de datos. 
 
 **Teminología tecnológica:**
 
-**- Base de datos relacional:** Colección de conjuntos de datos organizados como registros y  columnas en tablas. En un sistema de base de datos relacional, se habla de las relaciones entre las tablas de base de datos. Por ejemplo, una base de datos de clientes haría coincidir a cada cliente con un identificador que identifica al cliente. Los desarrolladores utilizan un lenguaje de consulta estructurada (SQL). 
+**- Base de datos relacional:** Colección de conjuntos de datos organizados como registros y  columnas en tablas. En un sistema de base de datos relacional, se habla de las relaciones entre las tablas de base de datos. Por ejemplo, una base de datos de clientes haría coincidir a cada cliente con un identificador que identifica al cliente. Los desarrolladores utilizan un lenguaje de consulta estructurada (SQL: Structured Query Language). 
 
 **- Amazon Relational Database Services (Amazon RDS):** Servicio que permite a los desarrolladores crear y administrar bases de datos relacionales en la nube.
 
