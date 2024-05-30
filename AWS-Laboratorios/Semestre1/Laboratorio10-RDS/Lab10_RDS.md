@@ -24,7 +24,7 @@ En este laboratorio, se creará una instancia de base de datos (DB) de Amazon Re
 
 ![alt text](image-3.png)
 
-+ Dejamos que se genere automáticamente las credenciales:
++ Dejamos que las credenciales se genere automáticamente:
 
 ![alt text](image-4.png)
 
