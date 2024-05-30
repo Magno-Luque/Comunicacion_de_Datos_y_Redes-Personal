@@ -28,7 +28,7 @@ En este laboratorio, se creará una alarma de Amazon CloudWatch que notifica cua
 
 ![alt text](image-3.png)
 
-+ Seleccionamos el tipo estandar y le introducimos un nombre:
++ Seleccionamos el tipo estandar e introducimos un nombre:
 
 ![alt text](image-4.png)
 
