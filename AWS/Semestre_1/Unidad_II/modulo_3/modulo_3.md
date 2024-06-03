@@ -12,7 +12,7 @@ Aprender a acceder a algunos de los servicios de AWS.
 
 **- Amazon Elastic Block Store (Amazon EBS):** Almacenamiento para instancias EC2 específicas. Considerar como la unidad de almacenamiento de una instancia EC2.
 
-**- Amazon Relational Database Service (Amazon RDS):** Permite a los desarroladores crear y administrar base de datos relacionales en la nube. Estas están equipadas con un lenguaje de consulta estructurado no procedimental (SQL) que simplifica las interacciones con la base de datos.
+**- Amazon Relational Database Service (Amazon RDS):** Permite a los desarroladores crear y administrar base de datos relacionales en la nube. Estas están equipadas con un lenguaje de consulta estructurado no procedimental (SQL: Structured Query Language) que simplifica las interacciones con la base de datos.
 
 **- Amazon DynamoDB:** Servicio de base de datos no relacionales. Los datos se almacenan en pares de clave-valor.
 
