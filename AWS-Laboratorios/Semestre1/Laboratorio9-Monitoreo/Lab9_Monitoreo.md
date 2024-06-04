@@ -80,7 +80,7 @@ En este laboratorio, se creará una alarma de Amazon CloudWatch que notifica cua
 
 ![alt text](image-16.png)
 
-+ Damos en siguientey configuramos las acciones:
++ Damos en siguiente y configuramos las acciones:
 
 ![alt text](image-17.png)
 
