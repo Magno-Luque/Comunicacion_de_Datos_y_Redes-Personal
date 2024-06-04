@@ -5,3 +5,4 @@
 + [Laboratorio 7 - IAM](Laboratorio7-IAM/Lab7_IAM.md)
 + [Laboratorio 9 - Monitoreo](Laboratorio9-Monitoreo/Lab9_Monitoreo.md)
 + [Laboratorio 10 - RDS](Laboratorio10-RDS/Lab10_RDS.md)
++ [Laboratorio 11 - Balanceadores de carga](Laboratorio11-Equilibrio_de_carga/Lab11_EqCar.md)
