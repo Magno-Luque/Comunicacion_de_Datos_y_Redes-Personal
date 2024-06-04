@@ -35,7 +35,7 @@ En este laboratorio, se creará una instancia de base de datos (DB) de Amazon Re
 + Podemos visualizar las credenciales de la instancia de base de datos en ver detalles de credenciales y se deberá tomar nota de esta.
 + Observamos que ya se completó la creación de nuestra instancia:
 
-
+![alt text](image-6.png)
 
 + Ahora bien, se deberá instalar SQL Server Management Studio para conectarnos a la instancia de base de datos de RDS.
 
