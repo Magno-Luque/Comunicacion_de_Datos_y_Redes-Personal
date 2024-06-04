@@ -2,10 +2,6 @@
 
 En este laboratorio, se creará una instancia de base de datos (DB) de Amazon Relational Database Service (Amazon RDS) que mantenga los datos utilizados por una aplicación web.
 
-### **Palabras clave:**
-
-**- P}:** De
-
 ---
 ### **Pasos:**
 + Accedemos a la consola de administración de AWS:
