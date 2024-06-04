@@ -25,6 +25,7 @@ En este laboratorio, se explorarán a los usuarios, los grupos y las políticas 
 ![alt text](image-5.png)
 
 + Este grupo está asociada a una política:
+
 ![alt text](image-6.png)
 ![alt text](image-7.png)
 ![alt text](image-8.png)
@@ -34,6 +35,7 @@ En este laboratorio, se explorarán a los usuarios, los grupos y las políticas 
 + Ahora pasaremos a un escenario empresarial:
 
 1. Asignaremos a los usuarios a sus grupos como indica en la siguiente tabla:
+
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 ![alt text](image-11.png)
@@ -46,18 +48,22 @@ En este laboratorio, se explorarán a los usuarios, los grupos y las políticas 
 ![alt text](image-18.png)
 
 + Cada usuario ya fue asignado a cada grupo:
+
 ![alt text](image-19.png)
 
 + Ahora vamos a iniciar sesión con las credenciales de cada uno de los usuarios:
+
 ![alt text](image-20.png)
 
 1. user-1 (posee permisos para ver la lista de los buckets de Amazon S3 y su contenido; mas no de obsevar siquiera las instancias EC2):
+
 ![alt text](image-21.png)
 ![alt text](image-22.png)
 ![alt text](image-23.png)
 ![alt text](image-24.png)
 
 2. user-2 (posee permisos para solamente visualizar las instancias EC2):
+
 ![alt text](image-25.png)
 ![alt text](image-26.png)
 ![alt text](image-27.png)
@@ -66,6 +72,7 @@ En este laboratorio, se explorarán a los usuarios, los grupos y las políticas 
 ![alt text](image-30.png)
 
 3. user-3 (permisos de detener instancias EC2):
+
 ![alt text](image-31.png)
 ![alt text](image-32.png)
 ![alt text](image-33.png)
