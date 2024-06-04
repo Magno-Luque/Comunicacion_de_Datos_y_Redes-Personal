@@ -46,3 +46,6 @@ En este laboratorio se creará una instancia Amazon EC2 que alojará un sitio we
 ![alt text](image-12.png)
 
 + Configuraremos los grupos de seguridad:
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
