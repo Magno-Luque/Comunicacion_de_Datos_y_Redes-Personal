@@ -2,9 +2,6 @@
 
 En este laboratorio, se creará una instancia de Amazon Elastic Compute Cloud y, a continuación, se adjuntará un volumen de Amazon Elastic Block Store.
 
-### **Palabras clave:**
-**- A:** A
-
 ---
 ### **Pasos:**
 + Accedemos a la consola de administración de AWS:
