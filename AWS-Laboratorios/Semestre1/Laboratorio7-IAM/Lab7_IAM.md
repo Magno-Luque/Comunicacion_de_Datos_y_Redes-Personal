@@ -9,19 +9,24 @@ En este laboratorio, se explorarán a los usuarios, los grupos y las políticas 
 ---
 ### **Pasos:**
 + Accedemos a la consola de administración de AWS:
+
 ![alt text](image.png)
 
 + Seleccionamos el IAM como servicio en donde ya estarán generadas los usuarios de IAM:
+
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
 + Seleccionamos al usuario 1 (inicialmente sin permisos, no pertenece a ningún grupo y con sus credenciales): 
+
 ![alt text](image-3.png)
 
 + Visualizamos también a los grupos de usuarios:
+
 ![alt text](image-4.png)
 
 + Seleccionamos al grupo S3-Support:
+
 ![alt text](image-5.png)
 
 + Este grupo está asociada a una política:
